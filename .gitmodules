@@ -1,0 +1,6 @@
+[submodule "energy-data-centre-visualisation-ui"]
+	path = energy-data-centre-visualisation-ui
+	url = https://git.cardiff.ac.uk/c21052928/energy-data-centre-visualisation-ui
+[submodule "energy-data-centre-visualisation-api"]
+	path = energy-data-centre-visualisation-api
+	url = https://git.cardiff.ac.uk/c21052928/energy-data-centre-visualisation-api
